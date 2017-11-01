@@ -14,7 +14,44 @@
 		9D4DEC561D6DDE39001490B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D4DEC541D6DDE39001490B9 /* LaunchScreen.storyboard */; };
 		9D741FF21D74BA260064B267 /* Singleton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D741FF11D74BA260064B267 /* Singleton.swift */; };
 		9D7E0FCD1D75D67800D2ADFA /* TableController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D7E0FCC1D75D67800D2ADFA /* TableController.swift */; };
-		9DC7199C1D77229C0063670B /* QuebecTaxes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DC7199B1D77229C0063670B /* QuebecTaxes.swift */; };
+		ADA0508F1FAA33CB0001BD59 /* MichiganTaxe.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADA0508E1FAA33CB0001BD59 /* MichiganTaxe.swift */; };
+		ADA050931FAA33FC0001BD59 /* backgroundmeijer.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050901FAA33FB0001BD59 /* backgroundmeijer.png */; };
+		ADA050941FAA33FC0001BD59 /* launchscreen.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050911FAA33FB0001BD59 /* launchscreen.png */; };
+		ADA050951FAA33FC0001BD59 /* logoAddUp.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050921FAA33FB0001BD59 /* logoAddUp.png */; };
+		ADA050B41FAA34380001BD59 /* Icon-167.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050961FAA34360001BD59 /* Icon-167.png */; };
+		ADA050B51FAA34380001BD59 /* Icon-29.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050971FAA34360001BD59 /* Icon-29.png */; };
+		ADA050B61FAA34380001BD59 /* Icon-60.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050981FAA34360001BD59 /* Icon-60.png */; };
+		ADA050B71FAA34380001BD59 /* Icon-76.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050991FAA34360001BD59 /* Icon-76.png */; };
+		ADA050B81FAA34380001BD59 /* Icon-120.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA0509A1FAA34360001BD59 /* Icon-120.png */; };
+		ADA050B91FAA34380001BD59 /* Icon-128.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA0509B1FAA34360001BD59 /* Icon-128.png */; };
+		ADA050BA1FAA34380001BD59 /* Icon-48.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA0509C1FAA34360001BD59 /* Icon-48.png */; };
+		ADA050BB1FAA34380001BD59 /* Icon-58.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA0509D1FAA34360001BD59 /* Icon-58.png */; };
+		ADA050BC1FAA34380001BD59 /* Icon-1024.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA0509E1FAA34370001BD59 /* Icon-1024.png */; };
+		ADA050BD1FAA34380001BD59 /* Icon-50.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA0509F1FAA34370001BD59 /* Icon-50.png */; };
+		ADA050BE1FAA34380001BD59 /* Icon-512.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050A01FAA34370001BD59 /* Icon-512.png */; };
+		ADA050BF1FAA34380001BD59 /* Icon-57.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050A11FAA34370001BD59 /* Icon-57.png */; };
+		ADA050C01FAA34380001BD59 /* Icon-80.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050A21FAA34370001BD59 /* Icon-80.png */; };
+		ADA050C11FAA34380001BD59 /* Icon-16.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050A31FAA34370001BD59 /* Icon-16.png */; };
+		ADA050C21FAA34380001BD59 /* Icon-114.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050A41FAA34370001BD59 /* Icon-114.png */; };
+		ADA050C31FAA34380001BD59 /* Icon-20.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050A51FAA34370001BD59 /* Icon-20.png */; };
+		ADA050C41FAA34380001BD59 /* Icon-40.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050A61FAA34370001BD59 /* Icon-40.png */; };
+		ADA050C51FAA34380001BD59 /* Icon-87.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050A71FAA34370001BD59 /* Icon-87.png */; };
+		ADA050C61FAA34380001BD59 /* Icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050A81FAA34370001BD59 /* Icon-72.png */; };
+		ADA050C71FAA34380001BD59 /* Icon-180.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050A91FAA34370001BD59 /* Icon-180.png */; };
+		ADA050C81FAA34380001BD59 /* Icon-88.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050AA1FAA34370001BD59 /* Icon-88.png */; };
+		ADA050C91FAA34380001BD59 /* Icon-152.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050AB1FAA34370001BD59 /* Icon-152.png */; };
+		ADA050CA1FAA34380001BD59 /* Icon-100.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050AC1FAA34370001BD59 /* Icon-100.png */; };
+		ADA050CB1FAA34380001BD59 /* Icon-55.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050AD1FAA34370001BD59 /* Icon-55.png */; };
+		ADA050CC1FAA34380001BD59 /* Icon-144.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050AE1FAA34380001BD59 /* Icon-144.png */; };
+		ADA050CD1FAA34380001BD59 /* Icon-172.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050AF1FAA34380001BD59 /* Icon-172.png */; };
+		ADA050CE1FAA34380001BD59 /* Icon-32.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050B01FAA34380001BD59 /* Icon-32.png */; };
+		ADA050CF1FAA34380001BD59 /* Icon-64.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050B11FAA34380001BD59 /* Icon-64.png */; };
+		ADA050D01FAA34380001BD59 /* Icon-196.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050B21FAA34380001BD59 /* Icon-196.png */; };
+		ADA050D11FAA34380001BD59 /* Icon-256.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050B31FAA34380001BD59 /* Icon-256.png */; };
+		ADA050D41FAA36CF0001BD59 /* iconnext.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050D21FAA36CE0001BD59 /* iconnext.png */; };
+		ADA050D51FAA36CF0001BD59 /* iconback.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050D31FAA36CF0001BD59 /* iconback.png */; };
+		ADA050D71FAA38E80001BD59 /* icondelete.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050D61FAA38E70001BD59 /* icondelete.png */; };
+		ADA050D91FAA4F140001BD59 /* iconsetbudget.png in Resources */ = {isa = PBXBuildFile; fileRef = ADA050D81FAA4F130001BD59 /* iconsetbudget.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,7 +64,44 @@
 		9D4DEC571D6DDE39001490B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9D741FF11D74BA260064B267 /* Singleton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Singleton.swift; sourceTree = "<group>"; };
 		9D7E0FCC1D75D67800D2ADFA /* TableController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableController.swift; sourceTree = "<group>"; };
-		9DC7199B1D77229C0063670B /* QuebecTaxes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QuebecTaxes.swift; sourceTree = "<group>"; };
+		ADA0508E1FAA33CB0001BD59 /* MichiganTaxe.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MichiganTaxe.swift; sourceTree = "<group>"; };
+		ADA050901FAA33FB0001BD59 /* backgroundmeijer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = backgroundmeijer.png; path = Images/backgroundmeijer.png; sourceTree = "<group>"; };
+		ADA050911FAA33FB0001BD59 /* launchscreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = launchscreen.png; path = Images/launchscreen.png; sourceTree = "<group>"; };
+		ADA050921FAA33FB0001BD59 /* logoAddUp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logoAddUp.png; path = Images/logoAddUp.png; sourceTree = "<group>"; };
+		ADA050961FAA34360001BD59 /* Icon-167.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-167.png"; path = "Images/icons/Icon-167.png"; sourceTree = "<group>"; };
+		ADA050971FAA34360001BD59 /* Icon-29.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-29.png"; path = "Images/icons/Icon-29.png"; sourceTree = "<group>"; };
+		ADA050981FAA34360001BD59 /* Icon-60.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-60.png"; path = "Images/icons/Icon-60.png"; sourceTree = "<group>"; };
+		ADA050991FAA34360001BD59 /* Icon-76.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-76.png"; path = "Images/icons/Icon-76.png"; sourceTree = "<group>"; };
+		ADA0509A1FAA34360001BD59 /* Icon-120.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-120.png"; path = "Images/icons/Icon-120.png"; sourceTree = "<group>"; };
+		ADA0509B1FAA34360001BD59 /* Icon-128.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-128.png"; path = "Images/icons/Icon-128.png"; sourceTree = "<group>"; };
+		ADA0509C1FAA34360001BD59 /* Icon-48.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-48.png"; path = "Images/icons/Icon-48.png"; sourceTree = "<group>"; };
+		ADA0509D1FAA34360001BD59 /* Icon-58.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-58.png"; path = "Images/icons/Icon-58.png"; sourceTree = "<group>"; };
+		ADA0509E1FAA34370001BD59 /* Icon-1024.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-1024.png"; path = "Images/icons/Icon-1024.png"; sourceTree = "<group>"; };
+		ADA0509F1FAA34370001BD59 /* Icon-50.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-50.png"; path = "Images/icons/Icon-50.png"; sourceTree = "<group>"; };
+		ADA050A01FAA34370001BD59 /* Icon-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-512.png"; path = "Images/icons/Icon-512.png"; sourceTree = "<group>"; };
+		ADA050A11FAA34370001BD59 /* Icon-57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-57.png"; path = "Images/icons/Icon-57.png"; sourceTree = "<group>"; };
+		ADA050A21FAA34370001BD59 /* Icon-80.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-80.png"; path = "Images/icons/Icon-80.png"; sourceTree = "<group>"; };
+		ADA050A31FAA34370001BD59 /* Icon-16.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-16.png"; path = "Images/icons/Icon-16.png"; sourceTree = "<group>"; };
+		ADA050A41FAA34370001BD59 /* Icon-114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-114.png"; path = "Images/icons/Icon-114.png"; sourceTree = "<group>"; };
+		ADA050A51FAA34370001BD59 /* Icon-20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-20.png"; path = "Images/icons/Icon-20.png"; sourceTree = "<group>"; };
+		ADA050A61FAA34370001BD59 /* Icon-40.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-40.png"; path = "Images/icons/Icon-40.png"; sourceTree = "<group>"; };
+		ADA050A71FAA34370001BD59 /* Icon-87.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-87.png"; path = "Images/icons/Icon-87.png"; sourceTree = "<group>"; };
+		ADA050A81FAA34370001BD59 /* Icon-72.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-72.png"; path = "Images/icons/Icon-72.png"; sourceTree = "<group>"; };
+		ADA050A91FAA34370001BD59 /* Icon-180.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-180.png"; path = "Images/icons/Icon-180.png"; sourceTree = "<group>"; };
+		ADA050AA1FAA34370001BD59 /* Icon-88.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-88.png"; path = "Images/icons/Icon-88.png"; sourceTree = "<group>"; };
+		ADA050AB1FAA34370001BD59 /* Icon-152.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-152.png"; path = "Images/icons/Icon-152.png"; sourceTree = "<group>"; };
+		ADA050AC1FAA34370001BD59 /* Icon-100.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-100.png"; path = "Images/icons/Icon-100.png"; sourceTree = "<group>"; };
+		ADA050AD1FAA34370001BD59 /* Icon-55.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-55.png"; path = "Images/icons/Icon-55.png"; sourceTree = "<group>"; };
+		ADA050AE1FAA34380001BD59 /* Icon-144.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-144.png"; path = "Images/icons/Icon-144.png"; sourceTree = "<group>"; };
+		ADA050AF1FAA34380001BD59 /* Icon-172.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-172.png"; path = "Images/icons/Icon-172.png"; sourceTree = "<group>"; };
+		ADA050B01FAA34380001BD59 /* Icon-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-32.png"; path = "Images/icons/Icon-32.png"; sourceTree = "<group>"; };
+		ADA050B11FAA34380001BD59 /* Icon-64.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-64.png"; path = "Images/icons/Icon-64.png"; sourceTree = "<group>"; };
+		ADA050B21FAA34380001BD59 /* Icon-196.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-196.png"; path = "Images/icons/Icon-196.png"; sourceTree = "<group>"; };
+		ADA050B31FAA34380001BD59 /* Icon-256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Icon-256.png"; path = "Images/icons/Icon-256.png"; sourceTree = "<group>"; };
+		ADA050D21FAA36CE0001BD59 /* iconnext.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iconnext.png; path = Images/iconnext.png; sourceTree = "<group>"; };
+		ADA050D31FAA36CF0001BD59 /* iconback.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iconback.png; path = Images/iconback.png; sourceTree = "<group>"; };
+		ADA050D61FAA38E70001BD59 /* icondelete.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icondelete.png; path = Images/icondelete.png; sourceTree = "<group>"; };
+		ADA050D81FAA4F130001BD59 /* iconsetbudget.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = iconsetbudget.png; path = Images/iconsetbudget.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,7 +139,7 @@
 				9D4DEC4B1D6DDE39001490B9 /* AppDelegate.swift */,
 				9D741FF11D74BA260064B267 /* Singleton.swift */,
 				9D4DEC4D1D6DDE39001490B9 /* ViewController.swift */,
-				9DC7199B1D77229C0063670B /* QuebecTaxes.swift */,
+				ADA0508E1FAA33CB0001BD59 /* MichiganTaxe.swift */,
 				9D7E0FCC1D75D67800D2ADFA /* TableController.swift */,
 				9D4DEC4F1D6DDE39001490B9 /* Main.storyboard */,
 				9D4DEC521D6DDE39001490B9 /* Assets.xcassets */,
@@ -85,6 +159,13 @@
 		9DA1D6821D7621090084B01E /* Images */ = {
 			isa = PBXGroup;
 			children = (
+				ADA050D81FAA4F130001BD59 /* iconsetbudget.png */,
+				ADA050D61FAA38E70001BD59 /* icondelete.png */,
+				ADA050D31FAA36CF0001BD59 /* iconback.png */,
+				ADA050D21FAA36CE0001BD59 /* iconnext.png */,
+				ADA050901FAA33FB0001BD59 /* backgroundmeijer.png */,
+				ADA050911FAA33FB0001BD59 /* launchscreen.png */,
+				ADA050921FAA33FB0001BD59 /* logoAddUp.png */,
 				9DC593451D787D9C00D65655 /* icons */,
 			);
 			name = Images;
@@ -93,6 +174,36 @@
 		9DC593451D787D9C00D65655 /* icons */ = {
 			isa = PBXGroup;
 			children = (
+				ADA050A31FAA34370001BD59 /* Icon-16.png */,
+				ADA050A51FAA34370001BD59 /* Icon-20.png */,
+				ADA050971FAA34360001BD59 /* Icon-29.png */,
+				ADA050B01FAA34380001BD59 /* Icon-32.png */,
+				ADA050A61FAA34370001BD59 /* Icon-40.png */,
+				ADA0509C1FAA34360001BD59 /* Icon-48.png */,
+				ADA0509F1FAA34370001BD59 /* Icon-50.png */,
+				ADA050AD1FAA34370001BD59 /* Icon-55.png */,
+				ADA050A11FAA34370001BD59 /* Icon-57.png */,
+				ADA0509D1FAA34360001BD59 /* Icon-58.png */,
+				ADA050981FAA34360001BD59 /* Icon-60.png */,
+				ADA050B11FAA34380001BD59 /* Icon-64.png */,
+				ADA050A81FAA34370001BD59 /* Icon-72.png */,
+				ADA050991FAA34360001BD59 /* Icon-76.png */,
+				ADA050A21FAA34370001BD59 /* Icon-80.png */,
+				ADA050A71FAA34370001BD59 /* Icon-87.png */,
+				ADA050AA1FAA34370001BD59 /* Icon-88.png */,
+				ADA050AC1FAA34370001BD59 /* Icon-100.png */,
+				ADA050A41FAA34370001BD59 /* Icon-114.png */,
+				ADA0509A1FAA34360001BD59 /* Icon-120.png */,
+				ADA0509B1FAA34360001BD59 /* Icon-128.png */,
+				ADA050AE1FAA34380001BD59 /* Icon-144.png */,
+				ADA050AB1FAA34370001BD59 /* Icon-152.png */,
+				ADA050961FAA34360001BD59 /* Icon-167.png */,
+				ADA050AF1FAA34380001BD59 /* Icon-172.png */,
+				ADA050A91FAA34370001BD59 /* Icon-180.png */,
+				ADA050B21FAA34380001BD59 /* Icon-196.png */,
+				ADA050B31FAA34380001BD59 /* Icon-256.png */,
+				ADA050A01FAA34370001BD59 /* Icon-512.png */,
+				ADA0509E1FAA34370001BD59 /* Icon-1024.png */,
 			);
 			name = icons;
 			sourceTree = "<group>";
@@ -129,6 +240,7 @@
 				TargetAttributes = {
 					9D4DEC471D6DDE38001490B9 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = U9URSZBRZG;
 						LastSwiftMigration = 0900;
 						ProvisioningStyle = Automatic;
 					};
@@ -158,8 +270,45 @@
 			buildActionMask = 2147483647;
 			files = (
 				9D4DEC561D6DDE39001490B9 /* LaunchScreen.storyboard in Resources */,
+				ADA050C61FAA34380001BD59 /* Icon-72.png in Resources */,
+				ADA050CE1FAA34380001BD59 /* Icon-32.png in Resources */,
+				ADA050CB1FAA34380001BD59 /* Icon-55.png in Resources */,
+				ADA050C01FAA34380001BD59 /* Icon-80.png in Resources */,
+				ADA050B81FAA34380001BD59 /* Icon-120.png in Resources */,
+				ADA050951FAA33FC0001BD59 /* logoAddUp.png in Resources */,
+				ADA050C21FAA34380001BD59 /* Icon-114.png in Resources */,
+				ADA050CA1FAA34380001BD59 /* Icon-100.png in Resources */,
+				ADA050BE1FAA34380001BD59 /* Icon-512.png in Resources */,
+				ADA050931FAA33FC0001BD59 /* backgroundmeijer.png in Resources */,
+				ADA050B91FAA34380001BD59 /* Icon-128.png in Resources */,
+				ADA050C91FAA34380001BD59 /* Icon-152.png in Resources */,
+				ADA050BA1FAA34380001BD59 /* Icon-48.png in Resources */,
+				ADA050D71FAA38E80001BD59 /* icondelete.png in Resources */,
+				ADA050CF1FAA34380001BD59 /* Icon-64.png in Resources */,
 				9D355DC81D70946100D4D755 /* Main.storyboard in Resources */,
+				ADA050BF1FAA34380001BD59 /* Icon-57.png in Resources */,
+				ADA050CD1FAA34380001BD59 /* Icon-172.png in Resources */,
+				ADA050D01FAA34380001BD59 /* Icon-196.png in Resources */,
+				ADA050C51FAA34380001BD59 /* Icon-87.png in Resources */,
+				ADA050C41FAA34380001BD59 /* Icon-40.png in Resources */,
+				ADA050C81FAA34380001BD59 /* Icon-88.png in Resources */,
+				ADA050BB1FAA34380001BD59 /* Icon-58.png in Resources */,
+				ADA050B41FAA34380001BD59 /* Icon-167.png in Resources */,
+				ADA050CC1FAA34380001BD59 /* Icon-144.png in Resources */,
+				ADA050C71FAA34380001BD59 /* Icon-180.png in Resources */,
+				ADA050BD1FAA34380001BD59 /* Icon-50.png in Resources */,
+				ADA050D91FAA4F140001BD59 /* iconsetbudget.png in Resources */,
+				ADA050C31FAA34380001BD59 /* Icon-20.png in Resources */,
+				ADA050B61FAA34380001BD59 /* Icon-60.png in Resources */,
 				9D4DEC531D6DDE39001490B9 /* Assets.xcassets in Resources */,
+				ADA050BC1FAA34380001BD59 /* Icon-1024.png in Resources */,
+				ADA050D41FAA36CF0001BD59 /* iconnext.png in Resources */,
+				ADA050B71FAA34380001BD59 /* Icon-76.png in Resources */,
+				ADA050941FAA33FC0001BD59 /* launchscreen.png in Resources */,
+				ADA050B51FAA34380001BD59 /* Icon-29.png in Resources */,
+				ADA050D11FAA34380001BD59 /* Icon-256.png in Resources */,
+				ADA050C11FAA34380001BD59 /* Icon-16.png in Resources */,
+				ADA050D51FAA36CF0001BD59 /* iconback.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -174,7 +323,7 @@
 				9D4DEC4E1D6DDE39001490B9 /* ViewController.swift in Sources */,
 				9D741FF21D74BA260064B267 /* Singleton.swift in Sources */,
 				9D4DEC4C1D6DDE39001490B9 /* AppDelegate.swift in Sources */,
-				9DC7199C1D77229C0063670B /* QuebecTaxes.swift in Sources */,
+				ADA0508F1FAA33CB0001BD59 /* MichiganTaxe.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -313,11 +462,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = U9URSZBRZG;
 				INFOPLIST_FILE = AddUp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.mariogeneau.AddUp;
+				PRODUCT_BUNDLE_IDENTIFIER = rogerterres;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
 				SWIFT_VERSION = 3.0;
@@ -328,11 +477,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
+				DEVELOPMENT_TEAM = U9URSZBRZG;
 				INFOPLIST_FILE = AddUp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.mariogeneau.AddUp;
+				PRODUCT_BUNDLE_IDENTIFIER = rogerterres;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_SWIFT3_OBJC_INFERENCE = On;
 				SWIFT_VERSION = 3.0;
